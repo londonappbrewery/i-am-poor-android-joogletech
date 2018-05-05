@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">Get Rich</string>
+    <string name="title" formatted="true">I Am Still Rich</string>
+    <string name="copyright" formatted="true">By Jermaine Gray</string>
 </resources>
